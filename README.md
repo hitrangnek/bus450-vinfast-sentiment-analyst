@@ -7,11 +7,18 @@ As VinFast expands globally, it faces mixed public perception. This project expl
 * To uncover key themes and sentiments shaping public perception of Vinfast electric vehicles (EVs) in Vietnam through large-scale analysis of user-generated content.
 * Suggest actionable strategies to enhance public acceptance and adoption.
   
-## Research Questions?
+## ❓Research Questions?
 * **RQ1:**  What topics emerge from user-generated content about VinFast EVs?
 * **RQ2:** What factors contribute to negative  consumer perceptions, and how can these perceptions be improved?
 
+## Data collection
+* Data source: Youtube
+* Algorithms: Sentiment and Topic Modeling
+* Tool: Python
+* Platform: Google Colab
+* **API V3: Crawl Data**
 
+## Study Framework
 
 ## Project Workflow
 * Collected YouTube comments related to VinFast EVs using Python. 
