@@ -8,8 +8,8 @@ As VinFast expands globally, it faces mixed public perception. This project expl
 * Suggest actionable strategies to enhance public acceptance and adoption.
   
 ## Research Questions?
-> RQ1:  What topics emerge from user-generated content about VinFast EVs?
-> RQ2: What factors contribute to negative  consumer perceptions, and how can these perceptions be improved?
+**RQ1:**  What topics emerge from user-generated content about VinFast EVs?
+**RQ2:** What factors contribute to negative  consumer perceptions, and how can these perceptions be improved?
 
 
 
