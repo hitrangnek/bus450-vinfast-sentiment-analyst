@@ -19,7 +19,7 @@ As VinFast expands globally, it faces mixed public perception. This project expl
 * **API V3: Crawl Data**
 
 ## Study Framework
-![Dashboard Preview](./Screenshot-study-framwork.png)
+![Dashboard Preview](./Screenshot-study-framework.png)
 ## Project Workflow
 * Collected YouTube comments related to VinFast EVs using Python. 
 * Cleaned and preprocessed the text data by removing unnecessary words and standardizing the text.
