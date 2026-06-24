@@ -3,12 +3,15 @@
 ## Problem Statement
 As VinFast expands globally, it faces mixed public perception. This project explores public sentiment to help improve brand positioning and product strategy.
 
-## Key Business Questions?
-* What are customers' overall opinions about VinFast EVs?
-* Which topics are most frequently discussed by consumers?
-* How do customers perceive VinFast models such as VF5, VF8, and VF9?
-* What are the main concerns affecting customer sentiment?
-* How has public interest in VinFast EVs changed over time?
+## Research Objectives
+* To uncover key themes and sentiments shaping public perception of Vinfast electric vehicles (EVs) in Vietnam through large-scale analysis of user-generated content.
+* Suggest actionable strategies to enhance public acceptance and adoption.
+  
+## Research Questions?
+RQ1:  What topics emerge from user-generated content about VinFast EVs?
+RQ2: What factors contribute to negative  consumer perceptions, and how can these perceptions be improved?
+
+
 
 ## Project Workflow
 * Collected YouTube comments related to VinFast EVs using Python. 
