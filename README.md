@@ -9,3 +9,9 @@ As VinFast expands globally, it faces mixed public perception. This project expl
 * How do customers perceive VinFast models such as VF5, VF8, and VF9?
 * What are the main concerns affecting customer sentiment?
 * How has public interest in VinFast EVs changed over time?
+
+## Project Workflow
+* Collected YouTube comments related to VinFast EVs using Python. 
+* Cleaned and preprocessed the text data by removing unnecessary words and standardizing the text.
+* Applied the PhoBERT model to classify comments into positive, neutral, and negative sentiment.
+* Visualized sentiment trends and public discussions over time.
