@@ -25,3 +25,11 @@ As VinFast expands globally, it faces mixed public perception. This project expl
 * Cleaned and preprocessed the text data by removing unnecessary words and standardizing the text.
 * Applied the PhoBERT model to classify comments into positive, neutral, and negative sentiment.
 * Visualized sentiment trends and public discussions over time.
+
+## Research Summary
+* Consumers focus on electric attributes, battery performance, and pricing in EV adoption.
+* Mentions of VF5, VF8, and VF9 reflect varying views on quality, technology, and experience.
+* Frequent buying-related terms indicate strong consumer interest, aligning with global EV trends.
+* The sentiment analysis of YouTube comments on VinFast EVs reveals a predominantly negative perception, with neutral discussions prevailing, but negative opinions significantly outweighing positive feedback, highlighting key consumer concerns.
+* Public interest in VinFast EVs has surged since 2022, with growing discussions on sustainability and EV technology, dominated by neutral and negative sentiment, highlighting increasing consumer awareness and concern (Le, 2024).
+
